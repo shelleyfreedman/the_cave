@@ -3,14 +3,14 @@ A fun game
 
 ## John
 
-1.
-2.
+1. Red
+2.Yellow
 3.
 4.
 
 ## Maria
 
-1.
+1.Green
 2.
 3.
 4.
@@ -18,7 +18,7 @@ A fun game
 ## Leah
 
 
-1.
+1. Purple
 2.
 3.
 4.
